@@ -1,0 +1,19 @@
+c:\users\bongz\documents\visual studio 2013\Projects\elpida\elpida\bin\elpida.dll
+c:\users\bongz\documents\visual studio 2013\Projects\elpida\elpida\bin\elpida.pdb
+c:\users\bongz\documents\visual studio 2013\Projects\elpida\elpida\obj\Debug\elpida.csprojResolveAssemblyReference.cache
+c:\users\bongz\documents\visual studio 2013\Projects\elpida\elpida\obj\Debug\elpida.dll
+c:\users\bongz\documents\visual studio 2013\Projects\elpida\elpida\obj\Debug\elpida.pdb
+c:\users\bongz\documents\visual studio 2013\Projects\elpida\elpida\bin\elpida.dll.config
+C:\Users\bongz\Desktop\elpida\elpida\bin\elpida.dll.config
+C:\Users\bongz\Desktop\elpida\elpida\bin\elpida.dll
+C:\Users\bongz\Desktop\elpida\elpida\bin\elpida.pdb
+C:\Users\bongz\Desktop\elpida\elpida\obj\Debug\elpida.csprojResolveAssemblyReference.cache
+C:\Users\bongz\Desktop\elpida\elpida\obj\Debug\elpida.dll
+C:\Users\bongz\Desktop\elpida\elpida\obj\Debug\elpida.pdb
+C:\Users\Salem\source\repos\ayman\elpida\elpida\bin\elpida.dll.config
+C:\Users\Salem\source\repos\ayman\elpida\elpida\bin\elpida.dll
+C:\Users\Salem\source\repos\ayman\elpida\elpida\bin\elpida.pdb
+C:\Users\Salem\source\repos\ayman\elpida\elpida\obj\Debug\elpida.csproj.CoreCompileInputs.cache
+C:\Users\Salem\source\repos\ayman\elpida\elpida\obj\Debug\elpida.dll
+C:\Users\Salem\source\repos\ayman\elpida\elpida\obj\Debug\elpida.pdb
+C:\Users\Salem\source\repos\ayman\elpida\elpida\obj\Debug\elpida.csprojAssemblyReference.cache
